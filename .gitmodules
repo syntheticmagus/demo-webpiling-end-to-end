@@ -7,3 +7,6 @@
 [submodule "submodules/opencv_contrib"]
 	path = submodules/opencv_contrib
 	url = https://github.com/opencv/opencv_contrib
+[submodule "submodules/webpiled-aruco-ar"]
+	path = submodules/webpiled-aruco-ar
+	url = https://github.com/syntheticmagus/webpiled-aruco-ar
