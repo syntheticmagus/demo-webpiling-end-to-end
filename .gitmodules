@@ -1,0 +1,9 @@
+[submodule "submodules/emsdk"]
+	path = submodules/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
+[submodule "submodules/opencv"]
+	path = submodules/opencv
+	url = https://github.com/opencv/opencv
+[submodule "submodules/opencv_contrib"]
+	path = submodules/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib
